@@ -1,6 +1,7 @@
 package com.codescad.education.institute.model.entity;
 
 import lombok.Data;
+
 import javax.persistence.*;
 
 /**
