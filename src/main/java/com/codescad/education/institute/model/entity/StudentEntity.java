@@ -22,8 +22,14 @@ public class StudentEntity {
     @Column(name = "ROLL_NO")
     private String rollNo;
 
-    @Column(name = "NAME")
-    private String name;
+    @Column(name = "FIRST_NAME")
+    private String firstName;
+
+    @Column(name = "MID_NAME")
+    private String midName;
+
+    @Column(name = "LAST_NAME")
+    private String lastName;
 
     @Column(name = "BATCH")
     private String batch;
@@ -31,8 +37,14 @@ public class StudentEntity {
     @Column(name = "FATHERS_NAME")
     private String fathersName;
 
+    @Column(name = "FATHERS_OCCUPATION")
+    private String fathersOccupation;
+
     @Column(name = "MOTHERS_NAME")
     private String mothersName;
+
+    @Column(name = "MOTHERS_OCCUPATION")
+    private String mothersOccupation;
 
     @Column(name = "MOBILE")
     private String mobile;
