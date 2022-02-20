@@ -17,8 +17,8 @@ public class ReportEntity {
 
     @Id
     @Column(name = "ID")
-    @GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "student_id_seq")
-    @SequenceGenerator(allocationSize = 1, name = "student_id_seq", sequenceName = "student_id_seq")
+    @GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "report_id_seq")
+    @SequenceGenerator(allocationSize = 1, name = "report_id_seq", sequenceName = "report_id_seq")
     private Long id;
 
     @Column(name = "BATCH_ID")

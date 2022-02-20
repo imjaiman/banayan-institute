@@ -1,5 +1,6 @@
 D:\personal_workspace\banayan-institute\src\main\java\com\codescad\education\institute\service\StudentServiceImpl.java
 D:\personal_workspace\banayan-institute\src\main\java\com\codescad\education\institute\service\notification\TextMessageNotificationServiceImpl.java
+D:\personal_workspace\banayan-institute\src\main\java\com\codescad\education\institute\model\entity\InstituteEntity.java
 D:\personal_workspace\banayan-institute\src\main\java\com\codescad\education\institute\service\notification\EmailNotificationServiceImpl.java
 D:\personal_workspace\banayan-institute\src\main\java\com\codescad\education\institute\EducationInstituteServicesApplication.java
 D:\personal_workspace\banayan-institute\src\main\java\com\codescad\education\institute\payment\PaytmPaymentServiceImpl.java
@@ -15,3 +16,4 @@ D:\personal_workspace\banayan-institute\src\main\java\com\codescad\education\ins
 D:\personal_workspace\banayan-institute\src\main\java\com\codescad\education\institute\payment\PaymentService.java
 D:\personal_workspace\banayan-institute\src\main\java\com\codescad\education\institute\model\request\RegisterStudent.java
 D:\personal_workspace\banayan-institute\src\main\java\com\codescad\education\institute\service\StudentService.java
+D:\personal_workspace\banayan-institute\src\main\java\com\codescad\education\institute\model\entity\UsersEntity.java

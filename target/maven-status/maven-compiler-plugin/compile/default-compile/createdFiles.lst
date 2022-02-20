@@ -1,8 +1,10 @@
+com\codescad\education\institute\model\entity\InstituteEntity.class
 com\codescad\education\institute\EducationInstituteServicesApplication.class
 com\codescad\education\institute\payment\PhonePayPaymentServiceImpl.class
 com\codescad\education\institute\repository\StudentRepository.class
 com\codescad\education\institute\service\notification\WhatsappNotificationServiceImpl.class
 com\codescad\education\institute\payment\PaymentGatewayServiceImpl.class
+com\codescad\education\institute\model\entity\UsersEntity.class
 com\codescad\education\institute\model\request\RegisterStudent.class
 com\codescad\education\institute\service\notification\EmailNotificationServiceImpl.class
 com\codescad\education\institute\service\notification\NotificationService.class

@@ -25,8 +25,8 @@ import javax.persistence.Table;
 public class UsersEntity {
     @Id
     @Column(name = "ID")
-    @GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "student_id_seq")
-    @SequenceGenerator(allocationSize = 1, name = "student_id_seq", sequenceName = "student_id_seq")
+    @GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "users_id_seq")
+    @SequenceGenerator(allocationSize = 1, name = "users_id_seq", sequenceName = "users_id_seq")
     private Long id;
 
     @Column(name = "FIRST_NAME")

@@ -23,8 +23,8 @@ public class InstituteEntity {
 
     @Id
     @Column(name = "ID")
-    @GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "student_id_seq")
-    @SequenceGenerator(allocationSize = 1, name = "student_id_seq", sequenceName = "student_id_seq")
+    @GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "institute_id_seq")
+    @SequenceGenerator(allocationSize = 1, name = "institute_id_seq", sequenceName = "institute_id_seq")
     private Long id;
 
 
